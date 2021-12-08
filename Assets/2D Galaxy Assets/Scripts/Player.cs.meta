@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 68031d50eecfcb24285d396d521c3c9e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laserPrefab: {fileID: 6265376489433167881, guid: 5451fc2e4413fba4c8a0c17a11434dcc,
+      type: 3}
+  - _tripleShotPrefab: {fileID: 6574264512690910101, guid: daf8ef6e462e5d04c825b6869672266c,
+      type: 3}
+  - _playerExplosionPrefab: {fileID: 6659396136366566916, guid: 15e32983aaf2c9a409b009a62085432d,
+      type: 3}
+  - _shieldEffect: {fileID: 2936150003895867151, guid: d708397c761245c47803d0e0c952387f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
